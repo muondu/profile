@@ -1,21 +1,10 @@
 body{
     
 }
-.text300{
-    background-color: gainsboro;
+.grey{
+    background-color: #F5F1F0;
+     text-align: center;
 }
-.heading15{
-    background-color: gainsboro;
-}
-.text200{
-     background-color: gainsboro;
-}
-.text27{
-    background-color: gainsboro;
-}
-.text91{
-    background-color: palegoldenrod;
-}
-.text101{
-    background-color: palegoldenrod;
+.headingresume{
+    text-align: center;
 }
