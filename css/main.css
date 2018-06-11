@@ -5,6 +5,12 @@ body{
     background-color: #F5F1F0;
      text-align: center;
 }
-.headingresume{
-    text-align: center;
+.blue{
+    background-color: lightblue;
+}
+.yellow{
+    background-color: yellow;
+}
+.orange{
+    background-color: orange;
 }
