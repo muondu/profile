@@ -1,4 +1,3 @@
+# Portofolio
 
-
-# project
-I am building a website
+This is a website about my self.
